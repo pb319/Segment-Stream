@@ -13,3 +13,7 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 - Stakeholders expect actionable recommendations derived from the data analysis that can be directly implemented to improve marketing strategies and customer engagement.
 
 - They anticipate measurable outcomes resulting from the project, such as increased revenue, improved customer loyalty, and a more efficient allocation of marketing resources.
+
+
+## Data Collection and Loading
+- 
