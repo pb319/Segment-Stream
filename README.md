@@ -16,4 +16,4 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 
 
 ## Data Collection and Loading
-- 
+- [Mall Customers Segmentation] (https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation)
