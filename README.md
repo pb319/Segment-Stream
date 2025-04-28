@@ -15,5 +15,19 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 - They anticipate measurable outcomes resulting from the project, such as increased revenue, improved customer loyalty, and a more efficient allocation of marketing resources.
 
 
-## Data Collection and Loading
-- [Mall Customers Segmentation](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation)
+## Data Collection
+ [Mall Customers Segmentation](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation)
+
+### Overview
+
+    information, annual income, and spending habits. 
+    The Mall Customers Dataset provides data on 200 individuals who visit a mall, including demographic 
+
+
+### Columns Description
+
+    CustomerID: A unique identifier for each customer (integer).
+    Genre: The gender of the customer (Male/Female).
+    Age: The age of the customer (integer).
+    Annual Income (k$): Annual income of the customer in thousands of dollars (integer).
+    Spending Score (1-100): A score assigned by the mall based on customer behavior and spending patterns (integer).
