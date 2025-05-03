@@ -38,3 +38,15 @@ The the above consolidated grouped-barplot depicts the following:
 | **Age**  | * `Cluster-1`: demography is the `oldest` (*Median - 66 Years*)<br> <br>* `Cluster-7`: demography is the `youngest` (*Median - 23.5 Years*)   |* `Cluster-4, Cluster-6` shows hight fluctuation in age distribution (twice than the rest) 
 | **Income**     | * `Cluster - 1, 3 ,5` : Exhibit `Middle-Class` behavioural patterns  <br> <br>* `Cluster - 2,4` : Exhibit `Business-Class` behavioural patterns <br> <br>* `Cluster - 6,7` : Exhibit `Economy-Class` behavioural patterns |* `Cluster- 2, 3, 4`: Exhibits high fluctuations in income while `Cluster- 1, 6, 7`: have relatively lower within group fluctuations in income. 
  **Spending**     | * `Cluster-1 (lowest), Cluster-3, Cluster-5` : These customer segments have `moderate-spending habit` <br> <br>* `Cluster - 4, 6`: Spending Habit is the `lowest (one-third of moderate cluster)`<br> <br>* `Cluster-2 (highest) ,Cluster-7`: Spending habit is `very high`  | * `Cluster-1 (lowest), Cluster-3, Cluster-5` : These Clusters exhibit comparitively lower fluctuation in spending habit<br> <br>* `Cluster-4, 6`: Lowest Spending Habit with highest fluctuation (`C.V. of 82.14%`) |
+
+
+ The the above consolidated grouped-barplot depicts the following:
+
+| **Clusters -->** | **Direct (+ve)** |**Indirect (-ve)** |**Special Observation** |
+| ---------------- | ---------------- | ----------------- | ------------ |
+ **Income Vs. Age**  |  Cluster- 4 | Cluster - 3, 5, 7 | Cluster- 3 [- 0.25]|
+| **Spending Vs. Age**     |  Cluster - 2, 4, 5 | Cluster - 6 | Cluster- 6 [- 0.28] |
+ **Spending Vs. Income**     |  Cluster - 4, 6 | Cluster - 5, 7  | Cluster- 4 [0.47]|
+
+**[ => Note: Correlation Value < 0.1 is considered as Zero ]**
+- `Cluster-1 is mostly uncorrelated with any existing featre`. Assumably, they will continue to function without any intervention and craete business.
