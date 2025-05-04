@@ -17,7 +17,6 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 
 ## Data Collection
  [Mall Customers Segmentation](https://www.kaggle.com/datasets/abdallahwagih/mall-customers-segmentation)
-
 ### Overview
 
     information, annual income, and spending habits. 
@@ -34,12 +33,7 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 
 
 ## Customer Segment Analysis
-<br/>
-
 ![Image](https://github.com/user-attachments/assets/b7a39b45-9abd-41f3-a9ec-1289e7fd7ec0)
-
-<br/>
-
 The the above consolidated grouped-barplot depicts the following:
 
 | **Features** | **Central Tendency** |**Measure of Dispersion** |
@@ -50,12 +44,7 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 #### Useful Insigts from Consolidated Description
-<br/>
-
-![Image](https://github.com/user-attachments/assets/f7f02841-60d6-4153-a931-67b3a75fce7f)
-
-<br/>
-
+![Image](https://github.com/user-attachments/assets/2e67594c-ef16-4ade-8fbe-3ce2656df678)
  The the above consolidated grouped-barplot depicts the following:
 
 | **Clusters -->** | **Direct (+ve)** |**Indirect (-ve)** |**Special Observation** |
@@ -77,10 +66,11 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 #### Statistical Inference and Log-Log Model Analysis
-
 <br/>
 
+
 ![Image](https://github.com/user-attachments/assets/4843d2f0-d319-40a2-b710-61a0db402263)
+
 
 <br/>
 
