@@ -31,9 +31,9 @@ A repository dedicated to the analysis of customer segmentation. This project ai
     Annual Income (k$): Annual income of the customer in thousands of dollars (integer).
     Spending Score (1-100): A score assigned by the mall based on customer behavior and spending patterns (integer).
 
-### Project Workflow Summary
+<!-- ### Project Workflow Summary -->
 
-| Section Name                     | Detailed Carried Out Tasks                                                                 | Rationale                                                                                  |
+<!-- | Section Name                     | Detailed Carried Out Tasks                                                                 | Rationale                                                                                  |
 |----------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Introduction                     | Defined customer segmentation goals and its business value                                 | Establish context and importance of segmentation for strategic marketing                  |
 | Objective                        | Set goals to identify customer segments based on income and spending score                | Focus efforts on actionable features relevant to business outcomes                        |
@@ -46,7 +46,7 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 | Statistical Inference & Testing | Conducted ANOVA, t-tests, and chi-square tests to validate cluster differences             | Ensure segments are statistically meaningful, not random groupings                        |
 | Business Implications            | Mapped each cluster to a targeted business strategy                                        | Enable tailored marketing and customer relationship strategies                            |
 | Conclusion                       | Summarized findings and validated impact of segmentation                                   | Reinforce business value and effectiveness of analytical approach                         |
-| Future Work                      | Proposed improvements like multivariate clustering, use of other algorithms, dashboards   | Guide continued development for more robust and operationalized segmentation              |
+| Future Work                      | Proposed improvements like multivariate clustering, use of other algorithms, dashboards   | Guide continued development for more robust and operationalized segmentation              | -->
 
 
 
@@ -100,7 +100,7 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 
-### Cluster Interpretation & Business Implications
+<!-- ### Cluster Interpretation & Business Implications
 
 | Cluster | Income Level | Spending Behavior | Age Group           | Interpretation                       | Business Implication                                              |
 |---------|--------------|-------------------|----------------------|--------------------------------------|-------------------------------------------------------------------|
@@ -110,4 +110,4 @@ The the above consolidated grouped-barplot depicts the following:
 | 4       | Low          | High              | Teens–20s            | Impulsive or young shoppers          | Create promotional campaigns and trendy product offerings        |
 | 5       | Average      | Average           | 30s                  | Mainstream customers                 | Maintain steady engagement and upsell opportunities              |
 | 6       | High         | Medium            | 30s–40s              | Upsell opportunity segment           | Nurture with exclusive bundles or perks to raise spending        |
-| 7       | Medium       | Low               | 50+                  | Disengaged or indifferent segment    | Conduct re-engagement campaigns to boost activity                |
+| 7       | Medium       | Low               | 50+                  | Disengaged or indifferent segment    | Conduct re-engagement campaigns to boost activity                | -->
