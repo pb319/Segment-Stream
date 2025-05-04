@@ -31,6 +31,24 @@ A repository dedicated to the analysis of customer segmentation. This project ai
     Annual Income (k$): Annual income of the customer in thousands of dollars (integer).
     Spending Score (1-100): A score assigned by the mall based on customer behavior and spending patterns (integer).
 
+### Project Workflow Summary
+
+| Section Name                     | Detailed Carried Out Tasks                                                                 | Rationale                                                                                  |
+|----------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Introduction                     | Defined customer segmentation goals and its business value                                 | Establish context and importance of segmentation for strategic marketing                  |
+| Objective                        | Set goals to identify customer segments based on income and spending score                | Focus efforts on actionable features relevant to business outcomes                        |
+| Data Description                 | Listed and explained each feature in the dataset                                           | Understand available information and its relevance for clustering                         |
+| Exploratory Data Analysis (EDA) | Checked missing values, performed univariate and bivariate analysis                        | Detect anomalies, understand distributions, and identify patterns                         |
+| Feature Selection                | Selected 'Annual Income' and 'Spending Score' for clustering                              | These features are most indicative of financial behavior and purchasing patterns          |
+| Optimal Cluster Selection        | Applied Elbow Method and Silhouette Score                                                  | Determine the ideal number of clusters to ensure model accuracy and interpretability      |
+| K-Means Clustering               | Implemented K-Means algorithm with `k=7`, plotted clusters visually                        | Segment customers into behaviorally similar groups for actionable insights                |
+| Cluster Interpretation           | Described behavioral characteristics of each of the 7 clusters                            | Translate statistical groupings into business-friendly segments                           |
+| Statistical Inference & Testing | Conducted ANOVA, t-tests, and chi-square tests to validate cluster differences             | Ensure segments are statistically meaningful, not random groupings                        |
+| Business Implications            | Mapped each cluster to a targeted business strategy                                        | Enable tailored marketing and customer relationship strategies                            |
+| Conclusion                       | Summarized findings and validated impact of segmentation                                   | Reinforce business value and effectiveness of analytical approach                         |
+| Future Work                      | Proposed improvements like multivariate clustering, use of other algorithms, dashboards   | Guide continued development for more robust and operationalized segmentation              |
+
+
 
 ## Customer Segment Analysis
 ![Image](https://github.com/user-attachments/assets/b7a39b45-9abd-41f3-a9ec-1289e7fd7ec0)
