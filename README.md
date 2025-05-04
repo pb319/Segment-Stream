@@ -74,3 +74,18 @@ The the above consolidated grouped-barplot depicts the following:
 - `Cluster-5, 7(-ve income effect)`: Depicts inverse relationship among Income and Spending, i.e. with increase in income, spending decreases. 
 
 - `Cluster- 2`: Exihibits increase in spending with increase in Age. 
+
+
+#### Statistical Inference and Log-Log Model Analysis
+
+<br/>
+
+![Image](https://github.com/user-attachments/assets/4843d2f0-d319-40a2-b710-61a0db402263)
+
+<br/>
+
+##### `Log-Log Regression Model` Suggest the Following :
+- Overall Model Addequacy (`Prob (F-statistic) < 0.05`): Hence Null Hypothesis (all coefficients are zero) is rejected.
+- The featured (Logarithmic Transformation) log-log model can explain 16.5% of the total variation in spending score (`Adj. R-squared = 0.165`).
+- `Log(Annual Income)` has found to be a significant predictor (`P>|t| = 0.013`).
+-  Final Thought: **1 % increase** in `Annual Income` may lead to **2.42 % increase** in `Avg. Spending Score`.
