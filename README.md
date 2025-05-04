@@ -35,7 +35,9 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 
 ## Customer Segment Analysis
 <br/>
+
 ![Image](https://github.com/user-attachments/assets/3fd0607e-ec28-4742-bed5-cb77dc80959c)
+
 <br/>
 
 The the above consolidated grouped-barplot depicts the following:
@@ -49,7 +51,9 @@ The the above consolidated grouped-barplot depicts the following:
 
 #### Useful Insigts from Consolidated Description
 <br/>
+
 ![Image](https://github.com/user-attachments/assets/7999e623-581a-4bb5-96a4-20555ea512b6)
+
 <br/>
 
  The the above consolidated grouped-barplot depicts the following:
