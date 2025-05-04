@@ -61,9 +61,12 @@ The the above consolidated grouped-barplot depicts the following:
 | **Income**     | * `Cluster-1, 3, 5`: Exhibit `Middle-Class` behavioural patterns  <br><br> * `Cluster-2, 4`: Exhibit `Business-Class` behavioural patterns  <br><br> * `Cluster-6, 7`: Exhibit `Economy-Class` behavioural patterns                      | * `Cluster-2, 3, 4`: Exhibit high fluctuations in income  <br><br> * `Cluster-1, 6, 7`: Have relatively lower within-group fluctuations |
 | **Spending**   | * `Cluster-1 (lowest)`, `Cluster-3`, `Cluster-5`: These customer segments have `moderate-spending habits`  <br><br> * `Cluster-4, 6`: Spending habit is the `lowest` (one-third of moderate cluster)  <br><br> * `Cluster-2 (highest)`, `Cluster-7`: Spending habit is `very high` | * `Cluster-1, 3, 5`: Exhibit comparatively lower fluctuation in spending habits  <br><br> * `Cluster-4, 6`: Lowest spending with highest fluctuation (`C.V. of 82.14%`)     |
 
+<br/>
 
-#### Consolidated Correlation Heatmap
+
+#### Consolidated Correlation Heatmap :
 ![Image](https://github.com/user-attachments/assets/2e67594c-ef16-4ade-8fbe-3ce2656df678)
+#### Data Interpretation:
  The the above consolidated grouped-barplot depicts the following:
 
 
@@ -88,7 +91,7 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 
-#### Statistical Inference and Log-Log Model Analysis
+#### Statistical Inference and Log-Log Model :
 <br/>
 
 
@@ -97,7 +100,8 @@ The the above consolidated grouped-barplot depicts the following:
 
 <br/>
 
-##### `Log-Log Regression Model` Suggest the Following :
+#### Data Interpretation: 
+`Log-Log Regression Model` Suggest the Following :
 - Overall Model Addequacy (`Prob (F-statistic) < 0.05`): Hence Null Hypothesis (all coefficients are zero) is rejected.
 - The featured (Logarithmic Transformation) log-log model can explain 16.5% of the total variation in spending score (`Adj. R-squared = 0.165`).
 - `Log(Annual Income)` has found to be a significant predictor (`P>|t| = 0.013`).
