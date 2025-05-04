@@ -54,7 +54,6 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 ![Image](https://github.com/user-attachments/assets/b7a39b45-9abd-41f3-a9ec-1289e7fd7ec0)
 The the above consolidated grouped-barplot depicts the following:
 
-### The above consolidated grouped-barplot depicts the following:
 
 | **Features**   | **Central Tendency**                                                                                                                                                                                                                   | **Measure of Dispersion**                                                                                                              |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -63,11 +62,11 @@ The the above consolidated grouped-barplot depicts the following:
 | **Spending**   | * `Cluster-1 (lowest)`, `Cluster-3`, `Cluster-5`: These customer segments have `moderate-spending habits`  <br><br> * `Cluster-4, 6`: Spending habit is the `lowest` (one-third of moderate cluster)  <br><br> * `Cluster-2 (highest)`, `Cluster-7`: Spending habit is `very high` | * `Cluster-1, 3, 5`: Exhibit comparatively lower fluctuation in spending habits  <br><br> * `Cluster-4, 6`: Lowest spending with highest fluctuation (`C.V. of 82.14%`)     |
 
 
-#### Useful Insigts from Consolidated Description
+#### Consolidated Correlation Heatmap
 ![Image](https://github.com/user-attachments/assets/2e67594c-ef16-4ade-8fbe-3ce2656df678)
  The the above consolidated grouped-barplot depicts the following:
 
-### The above consolidated correlation heatmap depicts the following:
+
 
 | **Clusters →**          | **Direct (+ve)**       | **Indirect (–ve)**       | **Special Observation**          |
 |-------------------------|------------------------|---------------------------|----------------------------------|
