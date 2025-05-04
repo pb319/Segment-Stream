@@ -32,13 +32,25 @@ A repository dedicated to the analysis of customer segmentation. This project ai
     Annual Income (k$): Annual income of the customer in thousands of dollars (integer).
     Spending Score (1-100): A score assigned by the mall based on customer behavior and spending patterns (integer).
 
+
+## Customer Segment Analysis
+<br/>
+![Image](https://github.com/user-attachments/assets/3fd0607e-ec28-4742-bed5-cb77dc80959c)
+<br/>
+
 The the above consolidated grouped-barplot depicts the following:
+
 | **Features** | **Central Tendency** |**Measure of Dispersion** |
 |--------------|----------------------| ------------------------ |
 | **Age**  | * `Cluster-1`: demography is the `oldest` (*Median - 66 Years*)<br> <br>* `Cluster-7`: demography is the `youngest` (*Median - 23.5 Years*)   |* `Cluster-4, Cluster-6` shows hight fluctuation in age distribution (twice than the rest) 
 | **Income**     | * `Cluster - 1, 3 ,5` : Exhibit `Middle-Class` behavioural patterns  <br> <br>* `Cluster - 2,4` : Exhibit `Business-Class` behavioural patterns <br> <br>* `Cluster - 6,7` : Exhibit `Economy-Class` behavioural patterns |* `Cluster- 2, 3, 4`: Exhibits high fluctuations in income while `Cluster- 1, 6, 7`: have relatively lower within group fluctuations in income. 
  **Spending**     | * `Cluster-1 (lowest), Cluster-3, Cluster-5` : These customer segments have `moderate-spending habit` <br> <br>* `Cluster - 4, 6`: Spending Habit is the `lowest (one-third of moderate cluster)`<br> <br>* `Cluster-2 (highest) ,Cluster-7`: Spending habit is `very high`  | * `Cluster-1 (lowest), Cluster-3, Cluster-5` : These Clusters exhibit comparitively lower fluctuation in spending habit<br> <br>* `Cluster-4, 6`: Lowest Spending Habit with highest fluctuation (`C.V. of 82.14%`) |
 
+
+#### Useful Insigts from Consolidated Description
+<br/>
+![Image](https://github.com/user-attachments/assets/7999e623-581a-4bb5-96a4-20555ea512b6)
+<br/>
 
  The the above consolidated grouped-barplot depicts the following:
 
@@ -49,4 +61,12 @@ The the above consolidated grouped-barplot depicts the following:
  **Spending Vs. Income**     |  Cluster - 4, 6 | Cluster - 5, 7  | Cluster- 4 [0.47]|
 
 **[ => Note: Correlation Value < 0.1 is considered as Zero ]**
-- `Cluster-1 is mostly uncorrelated with any existing featre`. Assumably, they will continue to function without any intervention and craete business.
+- `Cluster-1 is mostly uncorrelated with all existing featre`. Assumably, they will continue to function without any intervention and craete business.
+
+- `Cluster-6`(Lowest Income Group but the Stediest) : With Increasing Age, Spending Decreases. While with increasing Income, Spending inceases. Income and Age seem to be uncorrelated.
+
+- `Clsuter-4`(Business Class but the fluctuating income): Income, Age, and Spending Increases Alongside. Correlation Income and Spending is highest .
+
+- `Cluster-5, 7(-ve income effect)`: Depicts inverse relationship among Income and Spending, i.e. with increase in income, spending decreases. 
+
+- `Cluster- 2`: Exihibits increase in spending with increase in Age. 
