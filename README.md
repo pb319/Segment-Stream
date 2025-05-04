@@ -78,7 +78,8 @@ The the above consolidated grouped-barplot depicts the following:
 | **Spending vs. Income** | Cluster-4, 6           | Cluster-5, 7              | Cluster-4 [0.47]                 |
 
 **Note:** Correlation values < 0.1 are considered as zero.
-
+<br/>
+<br/>
 - `Cluster-1` is mostly uncorrelated with all existing features. Assumably, they will continue to function without any intervention and create business.
 
 - `Cluster-6` (Lowest Income Group but the Steadiest): With increasing Age, Spending decreases. While with increasing Income, Spending increases. Income and Age seem to be uncorrelated.
@@ -89,6 +90,8 @@ The the above consolidated grouped-barplot depicts the following:
 
 - `Cluster-2`: Exhibits increase in spending with increase in Age.
 
+
+<br/>
 
 
 #### Statistical Inference and Log-Log Model :
