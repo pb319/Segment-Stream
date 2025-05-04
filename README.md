@@ -97,3 +97,17 @@ The the above consolidated grouped-barplot depicts the following:
 - The featured (Logarithmic Transformation) log-log model can explain 16.5% of the total variation in spending score (`Adj. R-squared = 0.165`).
 - `Log(Annual Income)` has found to be a significant predictor (`P>|t| = 0.013`).
 -  Final Thought: **1 % increase** in `Annual Income` may lead to **2.42 % increase** in `Avg. Spending Score`.
+
+
+
+### Cluster Interpretation & Business Implications
+
+| Cluster | Income Level | Spending Behavior | Age Group           | Interpretation                       | Business Implication                                              |
+|---------|--------------|-------------------|----------------------|--------------------------------------|-------------------------------------------------------------------|
+| 1       | High         | High              | 30s–40s              | Loyal or premium customers           | Target with loyalty programs and premium offers                  |
+| 2       | Low          | Low               | 40s–50s              | Price-sensitive customers            | Offer discounts and budget-friendly options                      |
+| 3       | High         | Low               | 40s–50s              | Require better engagement            | Engage through personalized recommendations                      |
+| 4       | Low          | High              | Teens–20s            | Impulsive or young shoppers          | Create promotional campaigns and trendy product offerings        |
+| 5       | Average      | Average           | 30s                  | Mainstream customers                 | Maintain steady engagement and upsell opportunities              |
+| 6       | High         | Medium            | 30s–40s              | Upsell opportunity segment           | Nurture with exclusive bundles or perks to raise spending        |
+| 7       | Medium       | Low               | 50+                  | Disengaged or indifferent segment    | Conduct re-engagement campaigns to boost activity                |
