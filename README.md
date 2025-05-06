@@ -1,8 +1,8 @@
 # Segment-Stream
 A repository dedicated to the analysis of customer segmentation. This project aims to implement and evaluate various segmentation methodologies, drawing inspiration and techniques from current research in the field.
 
+![Image](https://github.com/user-attachments/assets/18600e24-dd41-4e04-a980-08c180fac6e6)
 
-![Image](https://github.com/user-attachments/assets/4a3bd0d7-1448-4f1b-9a07-cb7b72eae737)
 ## Problem Statement
 - A shopping mall aims to improve its marketing strategies and customer engagement.
 - The mall currently lacks a deep understanding of its customers, including their diverse profiles and purchasing habits.
@@ -52,7 +52,10 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 
 
 ## Customer Segment Analysis
-![Image](https://github.com/user-attachments/assets/b7a39b45-9abd-41f3-a9ec-1289e7fd7ec0)
+<br/>
+
+![Image](https://github.com/user-attachments/assets/47f74547-cf80-4cc3-b422-1e00e6cb7292)
+<br/>
 The the above consolidated grouped-barplot depicts the following:
 
 
