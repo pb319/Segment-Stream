@@ -156,4 +156,4 @@ The the above consolidated grouped-barplot depicts the following:
 
 <br>
 
-> **Note**: All recommendations are grounded in the observed statistical and correlation-based cluster insights.
+> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as Hypothesis Testing is Concerned, except Cluster-4, no other data found to be statitically significant.
