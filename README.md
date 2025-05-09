@@ -158,4 +158,4 @@ The the above consolidated grouped-barplot depicts the following:
 
 ⚠️ [Check Out Analysis and Reporting Notebook](https://github.com/pb319/Segment-Stream/blob/main/DataAnalysis.ipynb)
 
-> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, data is found to be statitically significant. (Except Cluster-4)
+> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, data is found to be statitically significant (Except Cluster-4).
