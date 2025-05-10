@@ -1,7 +1,8 @@
 # Segment-Stream
 A repository dedicated to the analysis of customer segmentation. This project aims to implement and evaluate various segmentation methodologies, drawing inspiration and techniques from current research in the field.
 
-![Image](https://github.com/user-attachments/assets/18600e24-dd41-4e04-a980-08c180fac6e6)
+https://github.com/user-attachments/assets/57d1c1fe-3678-4573-bf1f-78648e3d3174
+
 [🪝 Here is the Full Design](https://www.canva.com/design/DAGmeqOusx0/OXPSrhnimQZHigSzUTiVmA/edit?utm_content=DAGmeqOusx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Problem Statement
