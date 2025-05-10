@@ -167,8 +167,8 @@ https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 
 ## Practical Usecase
--  Let's assume, we have the data: Age=25, Income=60k$, Spending Score=55
-- How we can assign a cluster to the customer??
+- Let's assume, we have the data: Age=25, Income=60k$, Spending Score=55
+- How can we assign a cluster to the customer (new-observation) ??
 
 ⚠️ [Check Out Usecase-Prediction Notebook](https://github.com/pb319/Segment-Stream/blob/main/Predict.ipynb)
 
