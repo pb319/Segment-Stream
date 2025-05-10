@@ -161,6 +161,18 @@ https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 <br>
 
+⚠️ [Check Out Analysis and Reporting Notebook](https://github.com/pb319/Segment-Stream/blob/main/DataAnalysis.ipynb)
+
+> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, only data related to **Cluster-4** is found to be statistically significant.
+
+
+## Practical Usecase
+-  Let's assume, we have the data: Age=25, Income=60k$, Spending Score=55
+- How we can assign a cluster to the customer??
+
+⚠️ [Check Out Usecase-Prediction Notebook](https://github.com/pb319/Segment-Stream/blob/main/Predict.ipynb)
+
+
 ## Getting Started
 
 
@@ -187,6 +199,3 @@ jupyter notebook #running jupyter notebook
 ```
 <br> 
 
-⚠️ [Check Out Analysis and Reporting Notebook](https://github.com/pb319/Segment-Stream/blob/main/DataAnalysis.ipynb)
-
-> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, only data related to **Cluster-4** is found to be statistically significant.
