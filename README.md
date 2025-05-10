@@ -161,6 +161,32 @@ https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 <br>
 
+## Getting Started
+
+
+Clone this repository to your local machine :
+   ```sh
+ git clone https://github.com/pb319/Segment-Stream.git
+   ```
+
+Set Up a Virtual Environment :
+```sh
+python3 -m venv env
+source env/bin/activate  # For Linux/macOS
+```
+
+```sh
+python -m venv env
+env\Scripts\activate   # For Windows
+```
+
+Install Dependencies :
+```sh
+pip install jupyter notebook
+jupyter notebook #running jupyter notebook
+```
+<br> 
+
 ⚠️ [Check Out Analysis and Reporting Notebook](https://github.com/pb319/Segment-Stream/blob/main/DataAnalysis.ipynb)
 
 > **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, only data related to **Cluster-4** is found to be statistically significant.
