@@ -163,4 +163,4 @@ https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 ⚠️ [Check Out Analysis and Reporting Notebook](https://github.com/pb319/Segment-Stream/blob/main/DataAnalysis.ipynb)
 
-> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, data is found to be statitically significant (Except Cluster-4).
+> **Note**: All recommendations are grounded in the observed descriptive statistical and correlation-based cluster insights. As far as hypothesis testing is concerned, only data related to **Cluster-4** is found to be statistically significant.
