@@ -2,6 +2,7 @@
 A repository dedicated to the analysis of customer segmentation. This project aims to implement and evaluate various segmentation methodologies, drawing inspiration and techniques from current research in the field.
 
 ![Image](https://github.com/user-attachments/assets/18600e24-dd41-4e04-a980-08c180fac6e6)
+[🪝 Here is the Full Design](https://www.canva.com/design/DAGmeqOusx0/OXPSrhnimQZHigSzUTiVmA/edit?utm_content=DAGmeqOusx0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Problem Statement
 - A shopping mall aims to improve its marketing strategies and customer engagement.
@@ -54,7 +55,8 @@ A repository dedicated to the analysis of customer segmentation. This project ai
 ## Customer Segment Analysis
 <br/>
 
-![Image](https://github.com/user-attachments/assets/47f74547-cf80-4cc3-b422-1e00e6cb7292)
+![Image](https://github.com/user-attachments/assets/c6f1cae8-62fb-4f8b-8d79-981751c2de16)
+[🪝 Here is the Full Design](https://www.canva.com/design/DAGmpDv_064/PeRNqrCQQSNzv4SGSGkQfw/edit?utm_content=DAGmpDv_064&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br/>
 The the above consolidated grouped-barplot depicts the following:
 
@@ -69,7 +71,8 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 #### Consolidated Correlation Heatmap :
-![Image](https://github.com/user-attachments/assets/5e1087ef-c7af-457b-b660-b8b26e55b24f)
+![Image](https://github.com/user-attachments/assets/f1b74e8e-8c8b-478e-89f5-a83de1e2bbba)
+[🪝 Here is the Design](https://www.canva.com/design/DAGnBlflQg4/fmdvmUXg8K6l1Wes5l8fEg/edit?utm_content=DAGnBlflQg4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 #### Data Interpretation:
  The the above consolidated grouped-barplot depicts the following:
 
@@ -129,6 +132,7 @@ The the above consolidated grouped-barplot depicts the following:
 
 
 ## Cluster Interpretation and Business Recommendation
+https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 ### Cluster-Level Summary
 
