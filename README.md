@@ -199,3 +199,16 @@ jupyter notebook #running jupyter notebook
 ```
 <br> 
 
+## Future Scope of Work:
+
+- With the Data in Hand (200 Training Examples/ Sample Size) apply other clustering algorithms like,  DBSCAN, Hierarchical Clustering, Gaussian Mixture Model and Compare Using Clustering Metrics like, Silhouette Coefficient, Dunn Index.
+- Running Anomaly Detection techniques (Isolation Forest, Rule Based) may bring out more insights.
+- Consider taking a relatively higher dimensional dataset. Dimensional Reduction techniques (PCA, t-SNE) to deal with visualization of higher dimensional data.
+- Extend the current Cross Sectional data-analysis with Longitudinal / Panel-Data using Time Series Analysis.
+
+## Reference/Citations:
+ 
+- Alves Gomes, M., & Meisen, T. (2023). A review on customer segmentation methods for personalized customer targeting in e-commerce use cases. Information Systems and e-Business Management, 21(3), 527-570.
+
+- Kim, S. Y., Jung, T. S., Suh, E. H., & Hwang, H. S. (2006). Customer segmentation and strategy development based on customer lifetime value: A case study. Expert systems with applications, 31(1), 101-107.
+
