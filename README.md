@@ -201,9 +201,9 @@ jupyter notebook #running jupyter notebook
 
 ## Future Scope of Work:
 
-- With the Data in Hand (200 Training Examples/ Sample Size) apply other clustering algorithms like,  DBSCAN, Hierarchical Clustering, Gaussian Mixture Model and Compare Using Clustering Metrics like, Silhouette Coefficient, Dunn Index.
-- Running Anomaly Detection techniques (Isolation Forest, Rule Based) may bring out more insights.
-- Consider taking a relatively higher dimensional dataset. Dimensional Reduction techniques (PCA, t-SNE) to deal with visualization of higher dimensional data.
+- With the Data in Hand (200 Training Examples/ Sample Size) apply other clustering algorithms like,  DBSCAN, Hierarchical Clustering, Gaussian Mixture Model and Compare Using Clustering Evaluation Metrics (Dunn Index, Silhouette Coefficient, etc.)
+- Running Anomaly Detection techniques (Isolation Forest, Rule Based) would bring out more insights.
+- Consider taking a relatively higher dimensional dataset. Dimensional Reduction techniques (PCA, t-SNE) would help deal with visualization of higher dimensional data.
 - Extend the current Cross Sectional data-analysis with Longitudinal / Panel-Data using Time Series Analysis.
 
 ## Reference/Citations:
