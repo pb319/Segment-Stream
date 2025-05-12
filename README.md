@@ -172,6 +172,7 @@ https://github.com/user-attachments/assets/4fc06be9-ada1-468a-8f20-ef170b76c946
 
 ⚠️ [Check Out Usecase-Prediction Notebook](https://github.com/pb319/Segment-Stream/blob/main/Predict.ipynb)
 
+🌐 [Try It (Minimal User Interface)](https://segment-stream.streamlit.app/) 
 
 ## Getting Started
 
